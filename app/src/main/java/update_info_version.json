@@ -1,0 +1,8 @@
+{
+  "newVersion": "2.0",
+  "apkUrl": "https://example.net/example.apk",  //TODO apk file change needed
+  "versionNotes": [
+    "- Bug fixes"
+    "- Update checking"
+  ]
+}
